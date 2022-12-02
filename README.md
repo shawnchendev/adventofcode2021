@@ -1,4 +1,4 @@
-# adventofcode2021
+# advent of code 2021
 
 
 a repo to keep track of 2021 advent of code solution
