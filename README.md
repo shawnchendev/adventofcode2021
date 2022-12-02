@@ -8,6 +8,9 @@ to run the code, first please past the input as `input.txt` into each day's fold
 
 run 
 ``` 
+npm install 
+
 npx ts-node .src/dayX/index.ts
+
 ```
 x as the day number
