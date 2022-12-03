@@ -29,7 +29,7 @@ const slidingWindowForThree = (input: number[]) => {
     return slidingWindowInput;
 }
 
-const input = readFile('day1/input.txt');
+const input = readFile('src/day1/input.txt');
 const numberInput = input.map(Number)
 const totalIncrease = findTotalIncrease(numberInput);
 
